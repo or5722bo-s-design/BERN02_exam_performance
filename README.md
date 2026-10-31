@@ -11,6 +11,10 @@ Predicting exam performance based on relevant features.
 
 **Reproducable:** We have used a fixed random seed 42 for reproducability for the train test split and CV. All the choices for preprocessing are justified and documented in the notebook. The notebook also walks us through how the data has been changed or manipulated to be able to create the project. The required packages and versions are listed in 'eviroment.yml'. We have used a third-party data set that we did not collect by ourselves. The results that we have concluded refer to associations not causations. We can't verify the way the data was generated or sampled. 
 
+# Licence
+
+The files in the repository are under the [MIT License](LICENSE). Anyone is free to use, copy, modify and distribute them given that the licence text is included. However, this licence only applies to our own work (code and text). The data obtained from Kaggle is covered by its own licence, which can be found at [dataset page](https://www.kaggle.com/datasets/mobeenfatimah/student-exam-performance-and-success-dataset).
+
 # Authors
 
 Linn Preuss and Orsolya Bosáková.
